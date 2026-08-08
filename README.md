@@ -71,44 +71,11 @@ AegisFleet exposes native **MCP JSON-RPC tools** allowing LLMs and AI Agents to 
 
 ### Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/petrol-tanker-telematics.git
-   cd petrol-tanker-telematics
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Start the local development server**:
-   ```bash
-   npm run dev
-   ```
-   Open your browser to **`http://localhost:3005`**.
-
-4. **Run production build verification**:
-   ```bash
-   npm run build
-   ```
-
-5. **Run Standalone MCP Server**:
-   ```bash
+1. **
    npm run mcp
    ```
 
 ---
 
-## 🌐 One-Click Deployment
-
-### Deploy to Vercel
-1. Push your repository to GitHub.
-2. Import the project into [Vercel](https://vercel.com).
-3. Vercel automatically detects Vite and deploys your live web app to `https://your-app.vercel.app`.
-
----
-
-## 📜 License & Compliance
 
 Distributed under the MIT License. Designed in compliance with **NMDPRA** (Nigerian Midstream and Downstream Petroleum Regulatory Commission) digital tracking protocols and **FRSC** speed governor guidelines.
